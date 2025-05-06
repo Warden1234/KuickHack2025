@@ -1,0 +1,9 @@
+torch==2.0.1
+torchvision==0.15.2
+flask==3.0.3
+flask-cors==4.0.1
+hypercorn
+pillow==10.3.0
+numpy==1.26.4
+ultralytics==8.3.15
+opencv-python == 4.9.0.80
